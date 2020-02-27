@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fingerprint</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">Touch ID or Enter Password to Log in</string>
+    <string name="title_activity_home">Fingerprint</string>
+</resources>
